@@ -140,6 +140,7 @@ personal-documentation-assistant/
    - Click "Generate Detailed Report"
    - AI will create detailed report and summarize your notes
    - Both .md and .pdf files will be created in `reports/`
+   - Example outputs (.md file & .pdf file) which I got was added to `reports/` in this Repository for reference.
 
 ### Example Workflow
 
