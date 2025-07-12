@@ -44,9 +44,9 @@ Download a compatible GGUF model file and place it in the `models/` directory:
 
 **Recommended Model**: [mistral-7b-openorca.Q4_0.gguf](https://gpt4all.io/index.html)
 
-Used models in this project:
-  Meta-Llama-3-8B-Instruct.Q4_0
-  nous-hermes-llama2-13b.Q4_0
+**Used models in this project**:
+ - `Meta-Llama-3-8B-Instruct.Q4_0`
+ - `nous-hermes-llama2-13b.Q4_0`
 
 Took around 1.5-3 minutes to generate detailed report on a 5-6 brief lines input and 2 input images.
 Laptop used for the above run has 16GB Ram, Intel i5 14th Gen Processor.
