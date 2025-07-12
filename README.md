@@ -44,6 +44,13 @@ Download a compatible GGUF model file and place it in the `models/` directory:
 
 **Recommended Model**: [mistral-7b-openorca.Q4_0.gguf](https://gpt4all.io/index.html)
 
+Used models in this project:
+  Meta-Llama-3-8B-Instruct.Q4_0
+  nous-hermes-llama2-13b.Q4_0
+
+Took around 1.5-3 minutes to generate detailed report on a 5-6 brief lines input and 2 input images.
+Laptop used for the above run has 16GB Ram, Intel i5 14th Gen Processor.
+
 ```bash
 # Create models directory
 mkdir models
@@ -69,7 +76,7 @@ python -m main
 
 ## 📦 Building Standalone Executable
 
-### Build with PyInstaller
+### Build with PyInstaller (Optional)
 
 ```bash
 # Install PyInstaller if not already installed
@@ -130,8 +137,8 @@ personal-documentation-assistant/
    - Default format: `daily-log-YYYY-MM-DD`
 
 4. **Generate Report**:
-   - Click "🚀 Generate Report"
-   - AI will summarize your notes
+   - Click "Generate Detailed Report"
+   - AI will create detailed report and summarize your notes
    - Both .md and .pdf files will be created in `reports/`
 
 ### Example Workflow
@@ -236,7 +243,8 @@ Contributions welcome! Areas for improvement:
 
 ## 📄 License
 
-[Add your chosen license here]
+## License
+This project is licensed under the MIT License – see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
