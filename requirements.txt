@@ -1,0 +1,22 @@
+# Core GUI and application dependencies
+# tkinter-cefpython3==66.0  # Enhanced Tkinter (optional, tkinter is built-in)
+
+# Image processing
+Pillow==10.0.1
+
+# Local LLM integration
+gpt4all==2.5.0
+
+# Document generation
+markdown2==2.4.10
+reportlab==4.0.4
+
+# Additional utilities
+python-dateutil==2.8.2
+
+# Development and testing (optional)
+pytest==7.4.0
+pytest-cov==4.1.0
+
+# Packaging
+pyinstaller==5.13.2
