@@ -253,6 +253,14 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 - **ReportLab**: Professional PDF generation
 - **Python Community**: Amazing ecosystem of libraries
 
+  ## Screenshots:
+
+  - ![Output](./screenshots/docbotoutcome.png)
+  - ![Output](./screenshots/docbotoutput.png)
+  - ![App](./screenshots/documentbot.png)
+
+
 ---
+
 
 *Built with ❤️ for privacy-conscious productivity enthusiasts*
